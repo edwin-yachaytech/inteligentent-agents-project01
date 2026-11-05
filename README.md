@@ -117,7 +117,6 @@ tests/           pruebas de Bellman, replay y sincronización
 results/         registros, métricas, pesos, curvas y GIF de los 30 entrenamientos
 README.md        instalación y comandos de reproducción
 requirements.txt dependencias probadas
-AI_USE.md        declaración de asistencia de IA
 ```
 
 Cada `results/<config>/seed_<n>/` conserva configuración, CSV de entrenamiento y evaluación, 100 retornos finales, resumen y pesos o tabla Q. El resumen incluye hardware y versiones.
@@ -132,4 +131,4 @@ También se comprobó una repetición tabular exacta con la misma semilla: [repr
 
 ## Uso de IA
 
-Se utilizó ChatGPT/Codex para implementación, pruebas, ejecución y documentación. Véase [AI_USE.md](AI_USE.md). El estudiante debe comprender y poder defender el código. No se usan agentes prefabricados de Stable-Baselines3 u otras bibliotecas de agentes.
+Se utilizó ChatGPT/Codex para implementación, pruebas, ejecución y documentación. El estudiante debe comprender y poder defender el código. No se usan agentes prefabricados de Stable-Baselines3 u otras bibliotecas de agentes.
