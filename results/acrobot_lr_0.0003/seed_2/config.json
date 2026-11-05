@@ -1,0 +1,20 @@
+{
+  "algorithm": "dqn",
+  "lr": 0.0003,
+  "width": 64,
+  "gamma": 0.99,
+  "buffer_size": 50000,
+  "target_update": 1000,
+  "no_target": false,
+  "learning_starts": 1000,
+  "train_frequency": 4,
+  "batch_size": 64,
+  "epsilon_fraction": 0.5,
+  "epsilon_end": 0.05,
+  "name": "acrobot_lr_0.0003",
+  "group": "tier2",
+  "env": "Acrobot-v1",
+  "steps": 200000,
+  "eval_interval": 10000,
+  "seed": 2
+}

@@ -1,0 +1,28 @@
+{
+  "config": "cartpole_q_6",
+  "seed": 1,
+  "steps": 200000,
+  "final_mean": 157.05,
+  "final_std_episodes": 44.955954875721176,
+  "threshold": 475,
+  "threshold_passed": false,
+  "first_validation_threshold_step": null,
+  "training_seconds": 11.403937263032276,
+  "evaluation_seconds": 1.0391180270003133,
+  "wall_seconds": 12.504747126999973,
+  "hardware": {
+    "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+    "cpu": "",
+    "logical_cpus": 3,
+    "torch_threads": 1,
+    "device": "cpu",
+    "cpu_quota": "2 cores",
+    "memory_limit_gib": 8
+  },
+  "versions": {
+    "python": "3.12.14",
+    "gymnasium": "1.4.0",
+    "torch": "2.15.0+cpu",
+    "numpy": "2.5.4"
+  }
+}

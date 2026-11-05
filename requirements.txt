@@ -1,0 +1,6 @@
+numpy==2.5.4
+torch==2.15.0
+gymnasium[classic-control]==1.4.0
+matplotlib==3.10.8
+imageio==2.38.1
+pillow==13.0.0

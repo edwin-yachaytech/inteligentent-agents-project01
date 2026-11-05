@@ -1,0 +1,8 @@
+{
+  "config": "cartpole_q_6",
+  "seed": 0,
+  "steps": 200000,
+  "identical_training_csv": true,
+  "identical_final_100_returns": true,
+  "identical_q_table": true
+}

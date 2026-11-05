@@ -1,0 +1,12 @@
+{
+  "name": "cartpole_q_6",
+  "group": "tier1",
+  "env": "CartPole-v1",
+  "algorithm": "tabular",
+  "bins": 6,
+  "steps": 200000,
+  "eval_interval": 10000,
+  "epsilon_fraction": 0.7,
+  "epsilon_end": 0.02,
+  "seed": 0
+}

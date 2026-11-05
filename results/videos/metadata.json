@@ -1,0 +1,23 @@
+[
+  {
+    "config": "cartpole_q_10",
+    "training_seed": 1,
+    "video_seed": 800000,
+    "return_": 124.0,
+    "selection": "Training seed closest to median final mean; video episode is illustrative, not evaluation evidence."
+  },
+  {
+    "config": "cartpole_dqn",
+    "training_seed": 0,
+    "video_seed": 800000,
+    "return_": 91.0,
+    "selection": "Training seed closest to median final mean; video episode is illustrative, not evaluation evidence."
+  },
+  {
+    "config": "acrobot_default",
+    "training_seed": 0,
+    "video_seed": 800000,
+    "return_": -78.0,
+    "selection": "Training seed closest to median final mean; video episode is illustrative, not evaluation evidence."
+  }
+]

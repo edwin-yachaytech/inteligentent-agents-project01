@@ -1,0 +1,28 @@
+{
+  "config": "acrobot_default",
+  "seed": 0,
+  "steps": 200000,
+  "final_mean": -91.09,
+  "final_std_episodes": 20.44509523557959,
+  "threshold": -100,
+  "threshold_passed": true,
+  "first_validation_threshold_step": 140000,
+  "training_seconds": 59.44593097198367,
+  "evaluation_seconds": 6.9817401209998025,
+  "wall_seconds": 66.5368195640001,
+  "hardware": {
+    "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+    "cpu": "",
+    "logical_cpus": 3,
+    "torch_threads": 1,
+    "device": "cpu",
+    "cpu_quota": "2 cores",
+    "memory_limit_gib": 8
+  },
+  "versions": {
+    "python": "3.12.14",
+    "gymnasium": "1.4.0",
+    "torch": "2.15.0+cpu",
+    "numpy": "2.5.4"
+  }
+}
