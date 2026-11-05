@@ -131,4 +131,4 @@ También se comprobó una repetición tabular exacta con la misma semilla: [repr
 
 ## Uso de IA
 
-Se utilizó ChatGPT/Codex para implementación, pruebas, ejecución y documentación. El estudiante debe comprender y poder defender el código. No se usan agentes prefabricados de Stable-Baselines3 u otras bibliotecas de agentes.
+OpenAI Codex was used to interpret the assignment, analyze logs, and draft the report. It was also used to translate and edit this English version. Reported results come from saved runs, and references were checked against accessible sources.
